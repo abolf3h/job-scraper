@@ -47,13 +47,25 @@ BLACKLIST_KEYWORDS = [
     "us residents only",
     "must reside in us",
     "must be located in the us",
-    "must be based in",
     "senior",
     "director",
     "agency",
-    "full stack",
-    "fullstack",
+
+    # موقعیت‌های ارشد
+"manager",
+"lead",
+"head of",
+"vp of",
+"vice president",
+
+# محدودیت جغرافیایی
+"uk only",
+"europe only", 
+"australia only",
+"must be based in",
 ]
+
+
 
 # ══════════════════════════════════════════════════════════════════════════════
 # حافظه دائمی — seen_jobs.txt
